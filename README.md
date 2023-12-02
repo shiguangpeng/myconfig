@@ -1,0 +1,2 @@
+# myconfig
+remote config server
